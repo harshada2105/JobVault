@@ -84,7 +84,4 @@ npm start
 
 5. Open `http://localhost:3000` in your browser.
 6. Register a new account and start using JobVault.
-
-## Project
-
-JobVault was developed as the final project for my Full Stack Java Development course. It includes user authentication, CRUD operations, REST APIs, and database integration using Spring Boot, React, and MySQL.
+   
